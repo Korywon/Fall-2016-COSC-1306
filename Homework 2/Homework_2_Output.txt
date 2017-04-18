@@ -1,0 +1,114 @@
+Python 3.6.0a3 (v3.6.0a3:f3edf13dc339, Jul 11 2016, 21:40:24) [MSC v.1900 64 bit (AMD64)] on win32
+Type "copyright", "credits" or "license()" for more information.
+>>> 
+ RESTART: C:\Users\alvhu\Documents\College\2016 - B - Fall\COSC 1306\Homework\Homework 2\Homework_2.py 
+
+HOMEWORK 2 - ALVIN V. HUYNH - 1477121
+
+Wecome to ROCK, PAPER, SCISSORS!
+Here you will battle against an AI - to the death - for the best two out of three matches: RPS TOURNAMENT!
+
+ROCK destroys SCISSORS. PAPER destroys ROCK. SCISSORS destroys PAPER.
+
+The game starts NOW! Good luck!
+
+===== GAME 1 =====
+| R - Rock | P - Paper | S - Scissors |
+Choose your weapon of choice: a
+Invalid input.
+
+| R - Rock | P - Paper | S - Scissors |
+Choose your weapon of choice: b
+Invalid input.
+
+| R - Rock | P - Paper | S - Scissors |
+Choose your weapon of choice: c
+Invalid input.
+
+| R - Rock | P - Paper | S - Scissors |
+Choose your weapon of choice: r
+
+Round ++ WON ++
+User Score: 1 | AI Score: 0
+You played rock. AI played scissors.
+
+===== GAME 2 =====
+| R - Rock | P - Paper | S - Scissors |
+Choose your weapon of choice: p
+
+Round ++ WON ++
+User Score: 2 | AI Score: 0
+You played paper. AI played rock.
+
+===== GAME 3 =====
+| R - Rock | P - Paper | S - Scissors |
+Choose your weapon of choice: s
+
+Round ++ WON ++
+User Score: 3 | AI Score: 0
+You played scissors. AI played paper.
+
+
+========== +++ TOURNAMENT WON! +++ ==========
+User Score: 3 | AI Score: 0
+Rounds played: 3
+
+Replay? (Y/N): a
+Invalid input.
+
+Replay? (Y/N): b
+Invalid input.
+
+Replay? (Y/N): c
+Invalid input.
+
+Replay? (Y/N): y
+
+HOMEWORK 2 - ALVIN V. HUYNH - 1477121
+
+Wecome to ROCK, PAPER, SCISSORS!
+Here you will battle against an AI - to the death - for the best two out of three matches: RPS TOURNAMENT!
+
+ROCK destroys SCISSORS. PAPER destroys ROCK. SCISSORS destroys PAPER.
+
+The game starts NOW! Good luck!
+
+===== GAME 1 =====
+| R - Rock | P - Paper | S - Scissors |
+Choose your weapon of choice: r
+
+Round ++ WON ++
+User Score: 1 | AI Score: 0
+You played rock. AI played scissors.
+
+===== GAME 2 =====
+| R - Rock | P - Paper | S - Scissors |
+Choose your weapon of choice: p
+
+== DRAW == 
+User Score: 1 | AI Score: 0
+You played paper. AI played paper.
+
+===== GAME 3 =====
+| R - Rock | P - Paper | S - Scissors |
+Choose your weapon of choice: s
+
+Round -- LOST -- 
+User Score: 1 | AI Score: 1
+You played scissors. AI played rock.
+
+===== GAME 4 =====
+| R - Rock | P - Paper | S - Scissors |
+Choose your weapon of choice: r
+
+Round -- LOST -- 
+User Score: 1 | AI Score: 2
+You played rock. AI played paper.
+
+
+========== --- TOURNAMENT LOST! --- ==========
+User Score: 1 | AI Score: 2
+Rounds played: 4
+
+Replay? (Y/N): n
+>>> 
